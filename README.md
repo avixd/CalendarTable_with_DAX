@@ -1,7 +1,7 @@
 # Calendar Table with DAX
 ## Code samples of a calendar table using DAX
 
-### Refer to [this youtube video]() with a walk through of the code below
+### Refer to [this youtube video](https://youtu.be/NGUKMTdn27U) with a walk through of the code below
 
 ```
 Sample Calendar Table= 
