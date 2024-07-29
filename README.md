@@ -52,7 +52,7 @@ RETURN
 2. Fiscal Year, Fiscal Quarter and Fiscal Month
 3. Past/Present/Future Flags
 4. Weekday/Weekend Flag
-5. Dy Name, Day of the Year etc.
+5. Day Name, Day of the Year etc.
 
 ```
 Enhanced Calendar Table = 
